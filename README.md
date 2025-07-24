@@ -17,8 +17,6 @@ This project explores how pit stop timing, tire changes, and strategy choices in
 ### Dashboard Overview  
 ![Dashboard](dashboard.png)
 
-## 🔗 Dashboard Link
-
-[View Interactive Dashboard on Tableau Public](#) <!-- Replace # with your actual Tableau link -->
+ <!-- Replace # with your actual Tableau link -->
 
 
