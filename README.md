@@ -16,6 +16,10 @@ This project explores how pit stop timing, tire changes, and strategy choices in
 ### Dashboard Overview  
 ![Dashboard](dashboard.png)
 
+## 📊 Interactive Formula 1 Dashboard
+
+[View the dashboard on Tableau Public](https://public.tableau.com/app/profile/anna.alina.robert/viz/formula1_ptstop_strategy_analysis2018-2024_dashboard/DASHBOARD)
+
 
  <!-- Replace # with your actual Tableau link -->
 
