@@ -15,10 +15,7 @@ This project explores how pit stop timing, tire changes, and strategy choices in
 ## 📸 Screenshots
 
 ### Dashboard Overview  
-![Dashboard](screenshots/dashboard_main.png)
-
-### Pit Stop vs Race Position  
-![Pit Stop Impact](screenshots/pitstop_vs_position.png)
+![Dashboard](dashboard.png)
 
 ## 🔗 Dashboard Link
 
