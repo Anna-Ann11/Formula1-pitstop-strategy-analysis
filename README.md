@@ -13,7 +13,8 @@ This project explores how pit stop timing, tire changes, and strategy choices in
 - Formula 1 Dataset (2018–2024)
 
 ## 📸 Screenshots
-
+### Dashboard Overview  
+![Dashboard](dashboard.png)
 
 
  <!-- Replace # with your actual Tableau link -->
