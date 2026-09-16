@@ -14,7 +14,7 @@ This project explores how pit stop timing, tire changes, and strategy choices in
 
 ## 📸 Screenshots
 ### Dashboard Overview  
-![Dashboard](dashboard.png)
+![Dashboard](DASHBOARD.png)
 
 ## 📊 Interactive Formula 1 Dashboard
 
